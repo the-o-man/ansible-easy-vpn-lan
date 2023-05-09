@@ -28,7 +28,7 @@ all:
 
     wireguard_host: "wg.{{ root_host }}"
 
-    wireguard_subnet: "10.8.0.x"
+    wireguard_subnet: "10.10.10.x"
 
     adguard_host: "adguard.{{ root_host }}"
 
